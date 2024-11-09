@@ -5,6 +5,13 @@ A website application that offers the user with the functionality of sending, tr
 <li>Joseph Kimani</li>
 <li>Abdullahi Adan</li>
 <li>Macharia Lenny Maina</li>
+<li>Seth Oyoloko</li>
+<li>Kioi William Muhuni </li>
+<li>Hannah Nafula</li>
+<li>Moses Kiige</li>
+<li>Edwin Ng'ang'a Mbuthia</li>
+<li>Juma ELijah</li>
+<li>Rachael Wambua</li>
 </ol>
 
 # Table of Contents
@@ -43,11 +50,17 @@ A. XAMPP or LAMP (to serve PHP and MySQL locally)
 B. A code editor (like VS Code)    
 Installation 
         1. Clone the repository; git clone https://github.com/CodesByEtemesi/Complaints-System
+        
         2. Set Up the Local Server: sudo mv Complaints-System /opt/lampp/htdocs/complaint-system
             Start Apache and MySQL in XAMPP: sudo /opt/lampp/lampp start
-        3. Set Up the Database; => Open phpMyAdmin in your browser by navigating to http://localhost/phpmyadmin.
+
+        3. Set Up the Database; 
+                                => Open phpMyAdmin in your browser by navigating to http://localhost/phpmyadmin.
+
                                 => Create a new database for your project (e.g., bookstore_db).
+
                                 => Import any provided SQL files to set up the tables and data.
+                                
         4. Run the Project; Access the project by navigating to http://localhost/<Complaint-System in your web browser.
 
 # How to go about the application
