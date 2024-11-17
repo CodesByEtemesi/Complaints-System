@@ -13,7 +13,6 @@ $dbname='studentcomp';
 
 $conn=mysqli_connect($servername,$username,$password,$dbname);
 if($conn)
-
 {
 	$qwerty="SELECT * FROM `complaints`";
 	$res=mysqli_query($conn,$qwerty);
