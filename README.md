@@ -50,6 +50,8 @@ A. XAMPP or LAMP (to serve PHP and MySQL locally)
 B. A code editor (like VS Code)    
 Installation 
         1. Clone the repository; git clone https://github.com/CodesByEtemesi/Complaints-System
+
+        <p>The instructions below works for ubuntu linux systems.
         
         2. Set Up the Local Server: sudo mv Complaints-System /opt/lampp/htdocs/complaint-system
             Start Apache and MySQL in XAMPP: sudo /opt/lampp/lampp start
@@ -61,7 +63,7 @@ Installation
 
                                 => Import any provided SQL files to set up the tables and data.
 
-        4. Run the Project; Access the project by navigating to http://localhost/<Complaint-System in your web browser.
+        4. Run the Project; Access the project by navigating to http://localhost/Complaint-System in your web browser.
 
 # How to go about the application
 Landing Page: The homepage allows users to get a clear understanding of how to use the system by providing some easy to read and understand instructions.

@@ -963,7 +963,7 @@ if($conn)
 			</div>
 			<div id="foot" style="background-color:Gold/Yellow;height:80px;width:100%;float:left;margin-top:10px;text-align:center;padding:20px">
 		© 2024 Copyright:
-    <a href="https://github.com/CodesByEtemesi"> CodesByEtemesi</a>
+    <!-- <a href="https://github.com/CodesByEtemesi"> CodesByEtemesi</a> -->
 		</div>
 		
 	</body>

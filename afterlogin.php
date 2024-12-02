@@ -828,7 +828,7 @@ if($conn)
 		</div>
 		<div id="foot" style="background-color:Gold;height:80px;width:100%;float:left;margin-top:10px;text-align:center;">
 		© 2024 Copyright:
-    <a href="https://github.com/CodesByEtemesi" target='blank' > CodesByEtemesi</a>
+    <!-- <a href="https://github.com/CodesByEtemesi" target='blank' > CodesByEtemesi</a> -->
 		</div>
 		
 	</body>
